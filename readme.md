@@ -19,9 +19,9 @@ Machine déroulante autonome
 
 ### librairies
 
-df mini player : https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
-Accel Stepper : https://www.airspayce.com/mikem/arduino/AccelStepper/
-xiao esp32 c3 : https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
+df mini player : https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299 \
+Accel Stepper : https://www.airspayce.com/mikem/arduino/AccelStepper/ \
+xiao esp32 c3 : https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/ \
 
 ### schematic
 
